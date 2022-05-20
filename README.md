@@ -69,12 +69,12 @@
 ## Connect with me:
 <p align="left">
 
+<a href = "https://www.instagram.com/yunus__kidem/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<!-- <a href = "https://t.me/yunus_kidem"><img src="https://img.icons8.com/fluent/48/000000/telegram"/></a> -->
+<a href = "mailto:yunuskt363@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail"/></a>
 <a href = "https://www.linkedin.com/in/yunus-kidem-tesfaye/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/YKidem"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/yunus__kidem/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://#/yunus__kidem/"><img src="https://img.icons8.com/fluent/48/000000/telegram"/></a>
-<a href = "https://www.instagram.com/yunus__kidem/"><img src="https://img.icons8.com/fluent/48/000000/gmail"/></a>
-<a href = "https://www.instagram.com/yunus__kidem/"><img src="https://img.icons8.com/fluent/48/000000/google"/></a>
+
 
 </p>
 
