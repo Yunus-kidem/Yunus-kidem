@@ -4,9 +4,9 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Ethiopia 🇪🇹 </h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me 
 
-- 🔭 I’m currently working on **[NetFlix Clone](https://#/)**
+- 🔭 I’m currently working on **[NetFlix Clone](https://github.com/Yunus-kidem/Netflix_clone/)**
 
 - 🌱 I’m currently learning **Holberton School / African Leadership Academy**
 
